@@ -1,11 +1,4 @@
-/*
-Author: Philip Machar
-Reg No: BSE-01-0047/2024
-Date: June 20, 2024
-Description: A program to calculate the sum and average of ages in an array.
-*/
 
-//importing the standard input/output library
 #include <stdio.h>
 
 //This is the main C function where code execution begins
